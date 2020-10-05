@@ -55,7 +55,7 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     </head>
     <body class="bg-light">
-        
+        <%@include file="WEB-INF/jspf/menu.jspf" %>
         <main role="main" class="container bg-dark" style="margin-top: 90px" >
             <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded box-shadow">
                 <img class="mr-3" src="https://media-exp1.licdn.com/dms/image/C4D03AQFRkCzQAGatVA/profile-displayphoto-shrink_200_200/0?e=1606953600&amp;v=beta&amp;t=zNSuVGyOOolGvR5Nv7aaEyu9acdkGvCm_BYWUB1D9fA" alt="" width="48" height="48">

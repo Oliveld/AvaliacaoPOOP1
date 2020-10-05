@@ -14,6 +14,7 @@
 
     </head>
     <body>
+        <%@include file="WEB-INF/jspf/menu.jspf" %>
 
         <div class="container" style="margin-top: 90px">
             <img class="mr-3" src="https://media-exp1.licdn.com/dms/image/C4D03AQFRkCzQAGatVA/profile-displayphoto-shrink_200_200/0?e=1606953600&amp;v=beta&amp;t=zNSuVGyOOolGvR5Nv7aaEyu9acdkGvCm_BYWUB1D9fA" alt="" width="148" height="148">
